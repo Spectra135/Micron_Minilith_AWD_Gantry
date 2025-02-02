@@ -2,7 +2,7 @@
 
 # Micron+ AWD Minilith gantry
 > [!IMPORTANT]
-> **All props goes to CloakedWayne, I didn't do anything except adapt the monolith gantry to fit PFA specs.**
+> **All props go to CloakedWayne, I didn't do anything except adapt the monolith gantry to fit PFA specs.**
 > 
 > Don't expect a step-by-step build guide. Everything is really tight and needs a well tuned printer.
 > I won't be updating this gantry or make a 2WD version. Now that Monolith RC1 is out I wan't to work towards
