@@ -49,8 +49,6 @@ I want to thank:
 >
 > **If you would like to support this projects, please consider supporting CloakedWayne on Ko-fi, not me.**
 > **he did all the heavy lifting in creating this beautiful gantry !**
->
-> [![Join the Discord](https://github.com/Spectra135/Micron_Minilith_AWD_Gantry/blob/main/Images/kofi_short_button_white.png)](https://ko-fi.com/cloakedwayne)
 
 <br/><br/><br/><br/>
 This work is licensed under a
