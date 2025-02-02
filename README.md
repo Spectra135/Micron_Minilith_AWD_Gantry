@@ -14,7 +14,7 @@
 
 ![1](Images/Front_view.png)
 
-## Drive configurations:
+## Drive configurations
 there is only an AWD 6mm belt configuration as of now.
 
 ## Toolheads
