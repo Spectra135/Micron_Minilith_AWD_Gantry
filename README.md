@@ -8,9 +8,9 @@
 > I won't be updating this gantry nor making a 2WD version. Now that Monolith RC1 is out I wan't to work towards
 > something more similar to that.
 >
-> The belt path follows the same as the Monolith gantry.
+> The belt path is the same as the Monolith gantry.
 >
-> For the toothed idlers, they have to be 12.7mm OD. My build is based off the Formbot kit and they are the right size.
+> For the toothed idlers, they have to be 12.7mm OD!!! My build is based off the Formbot kit and they are the right size.
 
 ![1](Images/Front_view.png)
 
@@ -20,18 +20,6 @@ there is only an AWD 6mm belt configuration as of now.
 ## Toolheads
 Since this gantry has reversed belts, I kept Monoliths belt spacing for better toolhead support.
 Any toolhead with a dedicated monolith MGN9H support should fit on this gantry. 
-
-> [!NOTE]
-> **If some things aren't clear, consider joining the Monolith Discord server.**
-> **I have a user project in the server where you can ask your questions!**
-> **Maybe other users might be able to help you seeing as functionnality and belt path is basically the same**
->
-> [![Join the Discord](https://discord.com/api/guilds/1227971059764953230/widget.png?style=banner3)](https://discord.gg/JanBKxAzDz)
->
-> **If you would like to support this projects, please consider supporting CloakedWayne on Ko-fi, not me.**
-> ** he did all the heavy lifting in creating this beautiful gantry !
->
-> [![Join the Discord](https://github.com/CloakedWayne/Monolith_Gantry_V2-VT/blob/main/Images/kofi_short_button_white.png)](https://ko-fi.com/cloakedwayne)
 
 ## Futur Plans
 - Update to RC1 Monolith
@@ -50,6 +38,18 @@ Any toolhead with a dedicated monolith MGN9H support should fit on this gantry.
 I want to thank:
 - **CloakedWayne** I can't state this enough, all props goes to CloakedWayne, he designed and put all the effort in designing this gantry.
 - **Hartk** For making the incredible Micron and starting me out in a downhill spiral of Voron / DIY 3D printers. 
+
+> [!NOTE]
+> **If some things aren't clear, consider joining the Monolith Discord server.**
+> **I have a user project in the server where you can ask your questions!**
+> **Maybe other users might be able to help you seeing as functionnality and belt path is basically the same**
+>
+> [![Join the Discord](https://discord.com/api/guilds/1227971059764953230/widget.png?style=banner3)](https://discord.gg/JanBKxAzDz)
+>
+> **If you would like to support this projects, please consider supporting CloakedWayne on Ko-fi, not me.**
+> **he did all the heavy lifting in creating this beautiful gantry !**
+>
+> [![Join the Discord](Images/kofi_short_button_white.png)
 
 <br/><br/><br/><br/>
 This work is licensed under a
