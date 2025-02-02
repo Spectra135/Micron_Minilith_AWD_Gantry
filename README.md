@@ -25,7 +25,7 @@ Any toolhead with a dedicated monolith MGN9H support should fit on this gantry.
 - Update to RC1 Monolith
 - 2WD version
 - PFA belt spacing for better fitment (so custom toolhead mounts)
-- Fix the hights on the parts.
+- Fix the random hights on the parts.
 - Sheet metal version
 - Potentially a Salad fork version 
 
@@ -33,6 +33,7 @@ Any toolhead with a dedicated monolith MGN9H support should fit on this gantry.
 - Z-chain relocation or Z-umbilical is needed
 - loss of X travel depending on the toolhead
 - Small build volume loss on the front corners. (worse if you use klicky probe)
+- A lot louder than 2WD.
 
 ## Acknowledgement
 I want to thank:
