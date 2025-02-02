@@ -30,6 +30,7 @@ Any toolhead with a dedicated Monolith MGN9H carriage should fit on this gantry.
 - Potentially a Salad fork version 
 
 ## Downsides
+- Gantry protrudes outside of the frame by ~5.2mm. If you want the printer to be enclosed you will need spaced out pannels 
 - Z-chain relocation or Z-umbilical is needed
 - loss of X travel depending on the toolhead
 - Small build volume loss on the front corners. (worse if you use klicky probe)
