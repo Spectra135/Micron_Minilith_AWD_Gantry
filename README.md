@@ -2,10 +2,10 @@
 
 # Micron+ AWD Minilith gantry
 > [!IMPORTANT]
-> All props goes to CloakedWayne, I didn't do anything except adapt the monolith gantry to fit PFA specs.
+> **All props goes to CloakedWayne, I didn't do anything except adapt the monolith gantry to fit PFA specs.**
 > 
 > Don't expect a step-by-step build guide. Everything is really tight and needs a well tuned printer.
-> I won't be updating this gantry nor making a 2WD version. Now that Monolith RC1 is out I wan't to work towards
+> I won't be updating this gantry or make a 2WD version. Now that Monolith RC1 is out I wan't to work towards
 > something more similar to that.
 >
 > The belt path is the same as the Monolith gantry.
@@ -19,7 +19,7 @@ there is only an AWD 6mm belt configuration as of now.
 
 ## Toolheads
 Since this gantry has reversed belts, I kept Monoliths belt spacing for better toolhead support.
-Any toolhead with a dedicated monolith MGN9H support should fit on this gantry. 
+Any toolhead with a dedicated Monolith MGN9H carriage should fit on this gantry. 
 
 ## Futur Plans
 - Update to RC1 Monolith
@@ -38,16 +38,16 @@ Any toolhead with a dedicated monolith MGN9H support should fit on this gantry.
 ## Acknowledgement
 I want to thank:
 - **CloakedWayne** I can't state this enough, all props goes to CloakedWayne, he designed and put all the effort in designing this gantry.
-- **Hartk** For making the incredible Micron and starting me out in a downhill spiral of Voron / DIY 3D printers. 
+- **Hartk** For making the incredible Micron and starting me out in a spiral downhill of Vorons / DIY 3D printers. 
 
 > [!NOTE]
-> **If some things aren't clear, consider joining the Monolith Discord server.**
-> **I have a user project in the server where you can ask your questions!**
+> **If some things aren't clear, consider joining the Monolith Discord.**
+> **I have a user project in the server where you can ask questions!**
 > **Maybe other users might be able to help you seeing as functionnality and belt path is basically the same**
 >
 > [![Join the Discord](https://discord.com/api/guilds/1227971059764953230/widget.png?style=banner3)](https://discord.gg/JanBKxAzDz)
 >
-> **If you would like to support this projects, please consider supporting CloakedWayne on Ko-fi, not me.**
+> **If you would like to support this project, please consider supporting CloakedWayne on Ko-fi not me.**
 > **he did all the heavy lifting in creating this beautiful gantry !**
 
 <br/><br/><br/><br/>
