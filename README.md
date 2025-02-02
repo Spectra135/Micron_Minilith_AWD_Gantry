@@ -38,7 +38,7 @@ Any toolhead with a dedicated Monolith MGN9H carriage should fit on this gantry.
 
 ## Acknowledgement
 I want to thank:
-- **CloakedWayne** I can't state this enough, all props goes to CloakedWayne, he designed and put all the effort in designing this gantry.
+- **CloakedWayne** I can't state this enough, all props goes to CloakedWayne, he put all the effort in designing this gantry and making it better and better over time.
 - **Hartk** For making the incredible Micron and starting me out in a spiral downhill of Vorons / DIY 3D printers. 
 
 > [!NOTE]
